@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.11.2",
+  "appInfo": {
+    "name": "Awesome App ",
+    "description": "This is an awesome app built ith Amplication",
+    "version": "hqicnf4x",
+    "id": "cl00xuj0r22689201s6hqz4q494",
+    "url": "https://app.amplication.com/cl00xuj0r22689201s6hqz4q494",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl00xuj0r22689201s6hqz4q494",
+      "authProvider": "Http"
+    }
+  }
+}
